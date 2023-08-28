@@ -1,2 +1,2 @@
- ##This is a gentle introduction to git and github
+ ## This is a gentle introduction to git and github
 
